@@ -1,8 +1,8 @@
 ## #hw1-horiseon-social-solution-services
 
 <h3>HoriSEOn Marketing - Refactored Code, Optimized HTML / CSS / Media Assets.</h3>
-<p>Github Repository Page: https://github.com/palowenstein/hw1-code-refactor-horiseon-social-media</p>
-<p>Github Deployment Page: https://palowenstein.github.io/hw1-code-refactor-horiseon-social-media/</p>
+<p>Github Repository Page: https://github.com/palowenstein/code-refactor-horiseon-social-media</p>
+<p>Github Deployment Page: https://palowenstein.github.io/code-refactor-horiseon-social-media/</p>
 
 ![HoriSEOn Marketing (Screenshot)](./assets/images/hw1-code-refactor-horiseon-social-media.jpg?raw=true "HoriSEOn Marketing (Screenshot)")
 
