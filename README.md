@@ -1,10 +1,10 @@
-## #hw1-horiseon-social-solution-services
+## #1-horiseon-social-solution-services
 
 <h3>HoriSEOn Marketing - Refactored Code, Optimized HTML / CSS / Media Assets.</h3>
 <p>Github Repository Page: https://github.com/palowenstein/code-refactor-horiseon-social-media</p>
 <p>Github Deployment Page: https://palowenstein.github.io/code-refactor-horiseon-social-media/</p>
 
-![HoriSEOn Marketing (Screenshot)](./assets/images/hw1-code-refactor-horiseon-social-media.jpg?raw=true "HoriSEOn Marketing (Screenshot)")
+![HoriSEOn Marketing (Screenshot)](./assets/images/1-code-refactor-horiseon-social-media.jpg?raw=true "HoriSEOn Marketing (Screenshot)")
 
 ## HTML Optimizations
 <ol>
@@ -47,9 +47,9 @@
 <a href="./MITlicense.txt">MIT License</a> | Copyright © [2020] Pierre André Lowenstein
 </p>
 
- ## Contact
+## Contact
 <p>
-<a href="http://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
+<a href="https://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
 &nbsp;|&nbsp;
-<a href="mailto:soundtrackspecialist@gmail.com" title="Courriel">Send me a 'courriel'</a>
+<a href="mailto:coder@pierreandrelowenstein.com" title="Courriel">Send me a 'courriel'</a>
 </p>
